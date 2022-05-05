@@ -1,7 +1,7 @@
 
 # Hi there, my name's Mark
 
-I am a self-taught programmer who works at Twilio Segment. 
+I am a self-taught developer who works at Twilio Segment. 
 
 
 ## Contact
