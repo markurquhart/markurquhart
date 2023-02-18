@@ -1,7 +1,7 @@
 
 # Hi there, my name's Mark
 
-I am a self-taught developer who works at Twilio Segment. 
+I work in Solutions Engineering at Snowflake. I also build apps and other fun projects on the side to keep up my coding skills. 
 
 
 ## Contact
