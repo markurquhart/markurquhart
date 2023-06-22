@@ -3,7 +3,7 @@
 
 I work in Solutions Engineering at Snowflake. I also build apps and other fun projects on the side to keep up my coding skills. 
 
-![image of computer on table](https://pbs.twimg.com/profile_banners/34814047/1685710750/1500x500)
+![image of computer on table](https://framerusercontent.com/images/rDs263mVGutoRBoNiqVh57L9oak.jpg)
 
 
 ## Contact
