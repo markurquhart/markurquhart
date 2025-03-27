@@ -3,7 +3,7 @@
 
 I'm a self-taught developer who works in mar-tech. I also build apps and other projects on the side to keep up my dev skills. 
 
-![image of computer on table](banner.png)
+![image of computer on table](coffee_laptop.jpg)
 
 
 ## Contact
