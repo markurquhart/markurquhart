@@ -3,7 +3,7 @@
 
 I'm a self-taught developer who works in mar-tech. I also build apps and other projects on the side to keep up my dev skills. 
 
-![imountains](mountains-co.jpg)
+![boston](1500x500.jpeg)
 
 
 ## Contact
